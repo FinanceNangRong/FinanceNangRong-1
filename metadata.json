@@ -1,0 +1,6 @@
+{
+  "name": "รายงานแยกประเภทรายเดือน",
+  "description": "รายงานแยกประเภท ประจำปีงบประมาณ แบบสรุปแสดงรายเดือน ดึงข้อมูลจาก Google Sheets และส่งออกข้อมูลเป็นไฟล์ Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
